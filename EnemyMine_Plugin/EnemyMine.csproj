@@ -31,20 +31,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>F:\KSP131Surafce AI\KSP_x64_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\_LocalDev\KSPRefs\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>F:\KSP131Surafce AI\KSP_x64_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>..\..\_LocalDev\KSPRefs\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
-    <Reference Include="BDArmory, Version=1.1.0.39456, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\@Dependencies\BDArmory.dll</HintPath>
+    <Reference Include="BDArmory">
+      <HintPath>F:\Kerbal Space Program\GameData\BDArmory\Plugins\BDArmory.dll</HintPath>
     </Reference>
     <Reference Include="BDArmory.Core">
-      <HintPath>F:\KSP131Surafce AI\GameData\BDArmory\Plugins\BDArmory.Core.dll</HintPath>
+      <HintPath>F:\Kerbal Space Program\GameData\BDArmory\Plugins\BDArmory.Core.dll</HintPath>
     </Reference>
     <Reference Include="KSPAssets">
-      <HintPath>F:\KSP131Surafce AI\KSP_x64_Data\Managed\KSPAssets.dll</HintPath>
+      <HintPath>..\..\_LocalDev\KSPRefs\KSPAssets.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -53,10 +52,10 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine">
-      <HintPath>F:\KSP131Surafce AI\KSP_x64_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\_LocalDev\KSPRefs\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>F:\KSP131Surafce AI\KSP_x64_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>..\..\_LocalDev\KSPRefs\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
